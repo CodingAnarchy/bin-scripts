@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
-
-# Source taken from github.com/holman/dotfiles
+#
+# Created by @holman:
+#   http://github.com/holman/dotfiles
 
 HELP = <<EOS
 git-wtf displays the state of your repository in a readable, easy-to-scan
